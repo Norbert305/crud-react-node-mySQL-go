@@ -3,6 +3,10 @@
 ![image](https://github.com/Norbert305/crud-react-node-mySQL-go/assets/83515541/789a1544-7630-41a8-a383-50f044963732)
 
 
+# Video Demo
+
+https://vimeo.com/manage/videos/866424221
+
 # Backend 
 npm start
 # Frontend 
