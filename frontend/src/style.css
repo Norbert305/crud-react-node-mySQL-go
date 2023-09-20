@@ -77,11 +77,6 @@ img {
  }
 
  .addBookButton {
-    width: 270px;
-    padding: 10px;
-    border: 1px solid gray;
-    text-align: center;
-    background-color:aqua;
-    color: white;
-    font-weight: bold;
+   margin: 20px auto;
+   color: lightslategray;
  }
