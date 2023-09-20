@@ -4,7 +4,7 @@
 
 
 # Backend 
-$npm start
+npm start
 # Frontend 
 npm run dev
 
