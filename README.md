@@ -1,11 +1,12 @@
 # crud-react-node-mySQL-go
 
-![image](https://github.com/Norbert305/crud-react-node-mySQL-go/assets/83515541/789a1544-7630-41a8-a383-50f044963732)
+![image](https://github.com/Norbert305/crud-react-node-mySQL-go/assets/83515541/175be89d-5555-4b38-b479-42e06aa04f8c)
+
 
 
 # Video Demo
 
-https://vimeo.com/manage/videos/866424221
+https://vimeo.com/866824528?share=copy
 
 # Backend 
 npm start
