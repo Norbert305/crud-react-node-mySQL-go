@@ -9,9 +9,14 @@
 https://vimeo.com/866824528?share=copy
 
 # Backend 
-npm start
+<p>cd backend</p>
+<p>npm install</p>
+<p>npm start</p>
+
 # Frontend 
-npm run dev
+<p>cd backend</p>
+<p>npm install</p>
+<p>npm run dev</p>
 
 # Need a mySQL DataBase
 <p>I used XAMPP</p> 
