@@ -14,7 +14,7 @@ https://vimeo.com/866824528?share=copy
 <p>npm start</p>
 
 # Frontend 
-<p>cd backend</p>
+<p>cd frontend</p>
 <p>npm install</p>
 <p>npm run dev</p>
 
