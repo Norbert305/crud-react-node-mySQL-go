@@ -24,4 +24,12 @@ https://vimeo.com/866824528?share=copy
 <p>Table named books</p>
 http://localhost/dashboard/
 
+# Table Values
+<p>id -> primary key - not null </p>
+<p>title -> not null</p>
+<p>description -> not null</p>
+<p>cover -> null</p>
+<p>price -> not null</p>
+
+
 ![image](https://github.com/Norbert305/crud-react-node-mySQL-go/assets/83515541/4d825d2e-16a4-4a95-96b1-847e958d1a0f)
