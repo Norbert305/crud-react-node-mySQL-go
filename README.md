@@ -1,5 +1,9 @@
 # Lama Book Shop CRUD Web Application
 
+<h4>Enjoy your favorite books, movies, and animated characters.</h4>
+
+
+
 ![image](https://github.com/Norbert305/crud-react-node-mySQL-go/assets/83515541/175be89d-5555-4b38-b479-42e06aa04f8c)
 
 
