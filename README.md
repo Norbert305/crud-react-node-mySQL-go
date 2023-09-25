@@ -1,6 +1,6 @@
 # Lama Book Shop CRUD Web Application
 
-<h4>Enjoy your favorite books, movies, and animated characters.</h4>
+<h4><i>Enjoy your favorite books, movies, and animated characters!</i></h4>
 
 
 
